@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours en quatre chapitres consacré à les fédérations chaumiennes, les modules et la conservation communautaire de bitcoins est disponible dans [docs/fr/](docs/fr/).
+
 <h1 align="center">
   <a href="https://fedimint.org">
     Fedimint
